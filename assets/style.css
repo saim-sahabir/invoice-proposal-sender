@@ -1,0 +1,160 @@
+ .required_star{
+        color: #dd4b39;
+    }
+
+    .radio_button_problem{
+        margin-bottom: 19px;
+    }
+    .modal_error{
+        display: none;
+    }
+    .label_aligning{
+        float: left; padding: 5px 0px 0px 3px;
+    } 
+    .aligning{
+        width: 80%; float:left;
+    } 
+    .aligning_x{
+        width: 80%; 
+    } 
+.error-msg{
+display:none;
+color: red;
+}
+.padding-leftzero{
+	padding-left:0px;
+}
+.padding-rightzero{
+	padding-right:0px;
+}
+.spanclass{
+display:none;
+color: red;
+}
+.attachment-item{
+    width:150px;
+    float:left;
+    margin-right:25px;
+    margin-bottom: 10px;
+    height: 100px;
+    overflow: hidden;
+}
+.img-holder{
+    padding:10px;
+    border-radius: 4px;
+}
+.attachment-item img{
+    width:100%;
+    height:auto;
+    padding: 0px 40px;
+    height: 50px;
+}
+.attachment-item-title{
+    padding:10px 0px;
+    text-align: center;
+    font-size: 12px;
+}
+.photoallow{
+    font-size:10pt;margin-bottom: 20px;overflow: hidden;
+}
+.file-field{
+    opacity:0;position: absolute;top:0
+}
+.files{
+    width: 80%;
+    float: left;
+}
+.selectphoto{
+    width:  20%;
+    background-color:#0c5889;color:#fff;border:1px solid #069;
+    float: left;
+}
+.input-group-addon {
+    line-height: 20px;
+    border-radius: 4px;
+}
+.uploadbutton {
+    padding: 6px 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.photodiv{
+    margin-left: 84px;overflow: hidden;height: auto;
+}
+.photo-item{
+    width:100px;height:100%;float:left;margin-right:15px;text-align: center;
+}
+hr {
+        border-color: #808080b3;
+        border-width: 1px 0 0;
+        margin-top: 2px;
+    }
+ #main {
+    border: 1px solid #777;
+    margin: 0 auto;
+    padding: 30px;
+    width: 100%;
+}
+.section{
+    padding:10px;
+    margin-bottom:10px;
+    margin-bottom:10px;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.segment{
+    width:50%;
+    float: left;
+}
+.head-section p{
+    margin: 3px;
+
+}
+.head-section h2,.head-section h3{
+    margin:3px;
+}
+.head-section h3{
+    padding:10px;
+    width:100%;
+}
+.standard p{
+    margin: 3px;
+
+}
+.standard h2,.standard h3{
+    margin:3px;
+}
+
+.hide-colunm{
+    border:none;
+}
+
+.table thead > tr > th, .table tbody > tr > th, .table tfoot > tr > th, .table thead > tr > td, .table tbody > tr > td, .table tfoot > tr > td {
+    border-top: 0 solid #ddd;
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+}
+.table thead > tr > th {
+    border-bottom: 0px solid #ddd;
+    vertical-align: bottom;
+    border-right:1px solid #fff;
+    border-bottom:1px solid #fff; 
+}
+
+.table tbody > tr> td {
+    background-color: #f5f5f5;
+    border:none;
+    border-right:1px solid #fff;
+    border-bottom:1px solid #fff;   
+
+}
+.colorclass{
+    background-color: #0099CC;
+    color:#fff; 
+}
